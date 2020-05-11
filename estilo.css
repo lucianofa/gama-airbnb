@@ -4,3 +4,11 @@
     flex-wrap: wrap;
     justify-content: center;
   }
+
+#mensagem {
+    margin-top: 20px;
+}
+
+#logoairbnb {
+    width: 150px;
+}
